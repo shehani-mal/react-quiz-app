@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "Which ancient kingdom was the first established capital of Sri Lanka?",
+        option1: "Polonnaruwa",
+        option2: "Anuradhapura",
+        option3: "Kandy",
+        option4: "Sigiriya",
+        ans: 2,
+    },
+    {
+        question: "Which city serves as the administrative capital of Sri Lanka?",
+        option1: "Colombo",
+        option2: "Kandy",
+        option3: "Sri Jayawardenepura Kotte",
+        option4: "Galle",
+        ans: 3,
+    },
+    {
+        question: "What is the highest peak in Sri Lanka?",
+        option1: "Sri Pada (Adam's Peak)",
+        option2: "Pidurutalagala (Mount Pedro)",
+        option3: "Kirigalpotta",
+        option4: "Knuckles Range",
+        ans: 2,
+    },
+    {
+        question: "What is the official currency used in Sri Lanka?",
+        option1: "Rupee (LKR)",
+        option2: "Ringgit",
+        option3: "Baht",
+        option4: "Taka",
+        ans: 1,
+    },
+    {
+        question: "Which river is the longest in Sri Lanka?",
+        option1: "Kelani River",
+        option2: "Kalu River",
+        option3: "Mahaweli River",
+        option4: "Walawe River",
+        ans: 3,
+    },
+];
